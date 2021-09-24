@@ -4,7 +4,6 @@ Latest Submission Grade: 100%
 
 &nbsp;
 
-
 ### Question 1
 
 Which of the following options describes data analysis?
